@@ -1,13 +1,19 @@
-# APP PEOPLE COUNTER
+<img src="assets\images\banner.png" alt="" width="100%" height="%">
 
-📌 Este projeto tem o objetivo de fixar na prática os primeiros conceitos de **Flutter** e **Dart**. É basicamente um contador de pessoas para controlar o fluxos de clientes de um restaurante.    
+## 🚀 Apresentação
+<br>
+📍 Meu primeiro projeto que tem o objetivo de fixar na prática os primeiros conceitos de **Flutter** e **Dart**. É basicamente um contador de pessoas para controlar o fluxos de clientes de um restaurante. 
+<br>
+<br>
+
+## 📹 Demonstração
 <br>
 
 <div align=center>
-    <img src=assets/images/img.png width=400px>
+    <img src=assets/images/img.png  width="80%" height="60%">
 </div>
 
-## 📍 APRENDIZADOS
+## ⚡ Aprendizados
 <br>
 <ul>
     <li>Primeiro contato com a dinânica do Flutter e Dart.</li>
@@ -20,5 +26,7 @@
     </li>
     <li>Como gerar o APK do aplicativo.</li>
 </ul>
+
+
 
 
