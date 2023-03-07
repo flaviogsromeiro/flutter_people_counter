@@ -10,8 +10,9 @@
 <br>
 
 <div align=center>
-    <img src=assets/images/img.png  width="80%" height="60%">
+    <img src=assets/images/demo.gif width="50%" height="50%">
 </div>
+<br>
 
 ## ⚡ Aprendizados
 <br>
